@@ -32,6 +32,7 @@ __自己整理的一些tensorflow下ķeras实现的模型,可在Tensorflow2.0下
 * Deeplabv2
 * Deeplabv3+
 * FastFCN
+* ResUNet-a
 
 ### 分割损失函数：
 * Focal_Tversky_loss
