@@ -2,6 +2,8 @@
 
 __自己整理的一些tensorflow下ķeras实现的模型,可在Tensorflow2.0下运行__
 
+## 提示：以下模型均不包含预训练权重的载入，只是模型的实现
+
 ## 分类模型：
 * AlexNet
 * Darknet53
