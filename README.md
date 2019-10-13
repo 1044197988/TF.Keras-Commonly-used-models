@@ -2,7 +2,7 @@
 
 __自己整理的一些tensorflow下ķeras实现的模型,可在Tensorflow2.0下运行__
 
-## 提示：以下模型均不包含预训练权重的载入，只是模型的实现
+## 提示：以下模型均不包含预训练权重的载入，只是模型的实现；不同的卷积模块大部分在分类分割模型中已包含
 
 ## 分类模型：
 * AlexNet
@@ -54,3 +54,12 @@ __自己整理的一些tensorflow下ķeras实现的模型,可在Tensorflow2.0下
 * dice_loss
 * bce_dice_loss
 * cce_dice_loss
+
+### 新型激活函数：
+* gelu
+* swish
+* mish
+
+### 卷积模块：
+* SE
+* Res2Net
