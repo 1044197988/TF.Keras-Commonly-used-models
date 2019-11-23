@@ -17,6 +17,7 @@ __自己整理的一些tensorflow下ķeras实现的模型,可在Tensorflow2.0下
 * VGG16
 * Squeeze_Excite-Network
 * MobileNetV3
+* Efficientnet
 
 ## 分割模型：
 * FCN8S
