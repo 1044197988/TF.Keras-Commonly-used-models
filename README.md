@@ -49,12 +49,11 @@ __自己整理的一些tensorflow下ķeras实现的模型,可在Tensorflow2.0下
 * cce_dice_loss
 
 ### 分割指标：
-* jaccard_loss
-* bce_jaccard_loss
-* cce_jaccard_loss
-* dice_loss
-* bce_dice_loss
-* cce_dice_loss
+* iou_score
+* jaccard_score
+* f1_score
+* f2_score
+* dice_score
 
 ### 新型激活函数：
 * gelu
