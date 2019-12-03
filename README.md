@@ -34,6 +34,14 @@ __自己整理的一些tensorflow下ķeras实现的模型,可在Tensorflow2.0下
 * Deeplabv3+
 * FastFCN
 * ResUNet-a
+* Unet_family
+
+#### 不同种类的Unet模型图像分割的实现
+1、UNet -U-Net：用于生物医学图像分割的卷积网络 https://arxiv.org/abs/1505.04597 <br>
+2、RCNN-UNet-基于U-Net的递归残积卷积神经网络（R2U-Net）用于医学图像分割 https://arxiv.org/abs/1802.06955 <br>
+3、Attention Unet -Attention U-Net：学习在哪里寻找胰腺 https://arxiv.org/abs/1804.03999 <br>
+4、RCNN-Attention Unet -Attention R2U-Net：只需将两个最新的高级作品集成在一起（R2U-Net + Attention U-Net） <br>
+5、嵌套的UNet -UNet ++：用于医学图像分割的嵌套U-Net体系结构 https://arxiv.org/abs/1807.10165 <br>
 
 ### 分割损失函数：
 * Focal_Tversky_loss
