@@ -45,6 +45,8 @@ __自己整理的一些tensorflow下ķeras实现的模型,可在Tensorflow2.0下
 3、Attention Unet -Attention U-Net：学习在哪里寻找胰腺 https://arxiv.org/abs/1804.03999 <br>
 4、RCNN-Attention Unet -Attention R2U-Net：只需将两个最新的高级作品集成在一起（R2U-Net + Attention U-Net） <br>
 5、嵌套的UNet -UNet ++：用于医学图像分割的嵌套U-Net体系结构 https://arxiv.org/abs/1807.10165 <br>
+#### 参考
+[Unet-Segmentation-Pytorch-Nest-of-Unets](https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets)
 
 ### 分割损失函数：
 * Focal_Tversky_loss
