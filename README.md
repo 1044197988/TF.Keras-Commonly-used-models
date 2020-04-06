@@ -18,6 +18,7 @@ __自己整理的一些tensorflow下ķeras实现的模型,可在Tensorflow2.0下
 * Squeeze_Excite-Network
 * MobileNetV3
 * Efficientnet
+* SE_HRNet
 
 ## 分割模型：
 * FCN8S
@@ -33,6 +34,7 @@ __自己整理的一些tensorflow下ķeras实现的模型,可在Tensorflow2.0下
 * Deeplabv2
 * Deeplabv3+
 * FastFCN
+* HRNet
 * ResUNet-a
 * RCNN-UNet
 * Attention Unet
