@@ -19,6 +19,7 @@ __自己整理的一些tensorflow下ķeras实现的模型,可在Tensorflow2.0下
 * MobileNetV3
 * Efficientnet
 * SE_HRNet
+* ResNest
 
 ## 分割模型：
 * FCN8S
@@ -80,3 +81,7 @@ __自己整理的一些tensorflow下ķeras实现的模型,可在Tensorflow2.0下
 * SE
 * Res2Net
 * Deformable_Conv
+
+### Layer：
+* FRN
+* attention（PAM空间注意力和CAM通道注意力）
