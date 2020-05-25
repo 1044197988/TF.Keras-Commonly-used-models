@@ -85,3 +85,4 @@ __自己整理的一些tensorflow下ķeras实现的模型,可在Tensorflow2.0下
 ### Layer：
 * FRN
 * attention（PAM空间注意力和CAM通道注意力）
+* BiFPN
