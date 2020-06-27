@@ -86,3 +86,6 @@ __自己整理的一些tensorflow下ķeras实现的模型,可在Tensorflow2.0下
 * FRN
 * attention（PAM空间注意力和CAM通道注意力）
 * BiFPN
+
+### Others：
+* TCN（时间卷积网络——解决LSTM的并发问题）
